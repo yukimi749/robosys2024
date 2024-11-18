@@ -11,20 +11,20 @@ res=0
 
 ### NORMAL INPUT ###
 
-out=$(echo 11 | ./date)
+out=$(echo 11 | ./month)
 [ "${out}" = November ] || ng "$LINENO"
 
 ### STRANGE INPUT ###
 
-out=$(echo 13 | ./date)
+out=$(echo 13 | ./month)
 [ "$?" = 1 ] || ng "$LINENO"
 [ "${out}" = "" ] || ng "$LINENO"
 
-out=$(echo あ | ./date)
+out=$(echo あ | ./month)
 [ "$?" = 1 ] || ng "$LINENO"
 [ "${out}" = "" ] || ng "$LINENO"
 
-out=$(echo | ./date)
+out=$(echo | ./month)
 [ "$?" = 1 ] || ng "$LINENO"
 [ "${out}" = "" ] || ng "$LINENO"
 
