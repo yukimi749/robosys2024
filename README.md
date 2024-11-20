@@ -6,7 +6,7 @@
 
 標準入力から読み込んだ数字を足す。
 
-#monthコマンド
+# monthコマンド
 標準入力から数字を読み込み1月から12月までの月名を英語で表示する。
 ![test](https://github.com/yukimi749/robosys2024/actions/workflows/monthtest.yml/badge.svg)
 
