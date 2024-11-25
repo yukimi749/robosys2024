@@ -22,7 +22,7 @@ git clone git@github.com:yukimi749/robosys2024.git
 ```
 ./month
 ```
-1～12までの数字を入力
+- 1～12までの数字を入力
 
 ## 必要なソフトウェア
 - Python
