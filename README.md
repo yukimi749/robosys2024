@@ -19,10 +19,10 @@ git clone git@github.com:yukimi749/robosys2024.git
 
 ## 使い方
 - plusコマンド
-  - 実行方法
+  - 実行方法  
 `seq <数字> | ./plus`
 - monthコマンド
-  - 実行方法
+  - 実行方法  
 `./month`
   - 1から12までの数字を入力
 
