@@ -12,10 +12,9 @@
 標準入力から数字を読み込み1月から12月までの月名を英語で表示する。
 
 ## 使い方
-- リポジトリをクローン
-```
-git clone git@github.com:yukimi749/robosys2024.git
-```
+- リポジトリをクローン  
+`git clone https://github.com/yukimi749/robosys2024.git`
+
 - ディレクトリに移動  
 `cd robosys2024`
 
@@ -26,6 +25,7 @@ git clone git@github.com:yukimi749/robosys2024.git
   - 実行方法  
 標準入力を使用し次のコマンドを入力する  
 `./month`
+
   - 1から12までの数字を標準入力する
 
 ## 必要なソフトウェア
