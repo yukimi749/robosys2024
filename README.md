@@ -11,14 +11,7 @@
 
 標準入力から数字を読み込み1月から12月までの月名を英語で表示する。
 
-## 使い方
-- リポジトリをクローン  
-`git clone https://github.com/yukimi749/robosys2024.git`
-
-- ディレクトリに移動  
-`cd robosys2024`
-
-  - ディレクトリ構成
+## ディレクトリ構成
 ```
 robosys2024
 ├── LICENSE
@@ -28,16 +21,22 @@ robosys2024
 ├── plus
 └── test.bash
 ```
+## 使い方
+- リポジトリをクローン  
+`git clone https://github.com/yukimi749/robosys2024.git`
 
-- コマンドを実行する
+- ディレクトリに移動  
+`cd robosys2024`
+
+- `robosys2024`のディレクトリでコマンドを実行する
 
 ### 実行方法
-- plusコマンド
-  - 標準入力を使用する   
-`seq <数字> | ./plus`
-- monthコマンド
-  - 標準入力を使用する  
-`./month`
+- plusコマンド  
+標準入力を使用する  
+  - `seq <数字> | ./plus`
+- monthコマンド  
+標準入力を使用する  
+  - `./month`
   - 1から12までの数字を標準入力する
 
 ## 必要なソフトウェア
