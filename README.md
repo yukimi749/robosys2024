@@ -15,9 +15,10 @@
 - リポジトリをクローン  
 `git clone https://github.com/yukimi749/robosys2024.git`
 
-- ディレクトリに移動  
+- ディレクトリに移動
 `cd robosys2024`
-  - ディレクトリ構成
+
+- ディレクトリ構成
 ```
 robosys2024
 ├── LICENSE
@@ -27,6 +28,7 @@ robosys2024
 ├── plus
 └── test.bash
 ```
+
 - コマンドを実行する
 
 ### 実行方法
