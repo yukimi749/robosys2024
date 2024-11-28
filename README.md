@@ -17,14 +17,23 @@
 
 - ディレクトリに移動  
 `cd robosys2024`
-
+  - ディレクトリ構成
+```
+robosys2024
+├── LICENSE
+├── README.md
+├── month
+├── monthtest.bash
+├── plus
+└── test.bash
+```
 ### 実行方法
-- plusコマンド   
+- plusコマンド
+  - 標準入力を使用する   
 `seq <数字> | ./plus`
 - monthコマンド
-  - 標準入力を使用し次のコマンドを入力する  
+  - 標準入力を使用する  
 `./month`
-
   - 1から12までの数字を標準入力する
 
 ## 必要なソフトウェア
