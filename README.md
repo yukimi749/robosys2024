@@ -18,7 +18,7 @@
 - ディレクトリに移動  
 `cd robosys2024`
   - ディレクトリ構成
-    ```
+   ```
 robosys2024
 ├── LICENSE
 ├── README.md
@@ -26,7 +26,7 @@ robosys2024
 ├── monthtest.bash
 ├── plus
 └── test.bash
-    ```
+   ```
 - コマンドを実行する
 
 ### 実行方法
