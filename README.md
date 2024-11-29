@@ -45,12 +45,12 @@ robosys2024
 ### 実行例
 - plusコマンド
 ```
-seq 5 | ./plus
+$ seq 5 | ./plus
 15
 ```
 - monthコマンド
 ```
-./month
+$ ./month
 1
 January
 ```
