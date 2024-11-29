@@ -28,6 +28,10 @@ robosys2024
 - ディレクトリに移動  
 `cd robosys2024`
 
+- 実行権限を追加
+`chmod +x plus`
+`chmod +x month`
+
 - robosys2024のディレクトリでコマンドを実行する
 
 ### 実行方法
