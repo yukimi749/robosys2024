@@ -46,13 +46,13 @@ robosys2024
 - plusコマンド
 ```
 $ seq 5 | ./plus
-15
+15       ＜出力結果
 ```
 - monthコマンド
 ```
 $ ./month
-1    <標準入力
-January
+1        ＜入力
+January  ＜出力結果
 ```
 ## 必要なソフトウェア
 - Python
