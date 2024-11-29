@@ -32,7 +32,7 @@ robosys2024
 `chmod +x plus`  
 `chmod +x month`
 
-- robosys2024のディレクトリでコマンドを実行する
+- `robosys2024`のディレクトリでコマンドを実行する
 
 ### 実行方法
 - plusコマンド  
@@ -40,19 +40,19 @@ robosys2024
 
 - monthコマンド
   - `./month`
-  - <1から12までの数字>
+  - 標準入力を使用して1から12までの数字を入力する
 
 ### 実行例
 - plusコマンド
 ```
 $ seq 5 | ./plus
-15       ＜出力結果
+15
 ```
 - monthコマンド
 ```
 $ ./month
-1        ＜標準入力
-January  ＜出力結果
+1
+January
 ```
 ## 必要なソフトウェア
 - Python
