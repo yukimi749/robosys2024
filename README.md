@@ -21,7 +21,7 @@ robosys2024
 ├── plus
 └── test.bash
 ```
-## 使い方
+## 使用方法
 - リポジトリをクローン  
 `git clone https://github.com/yukimi749/robosys2024.git`
 
@@ -32,13 +32,11 @@ robosys2024
 
 ### 実行方法
 - plusコマンド  
-標準入力を使用する
   - `seq <数字> | ./plus`
 
-- monthコマンド  
-標準入力を使用する
+- monthコマンド
   - `./month`
-  - 1から12までの数字を入力する
+  - 1から12までの数字を標準入力で入力する
 
 ## 必要なソフトウェア
 - Python
