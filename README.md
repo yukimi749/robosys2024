@@ -51,7 +51,7 @@ $ seq 5 | ./plus
 - monthコマンド
 ```
 $ ./month
-1
+1    <標準入力
 January
 ```
 ## 必要なソフトウェア
