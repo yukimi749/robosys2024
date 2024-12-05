@@ -49,8 +49,7 @@ $ seq 5 | ./plus
 ```
 - monthコマンド
 ```
-$ ./month
-1
+$ echo 1 | ./month
 January
 ```
 ## 必要なソフトウェア
